@@ -165,6 +165,7 @@ public class Main {
                                 break;
                             }else if (inputTwo == 3){
                                 exit = true;
+                                break;
                             }else{
                                 System.out.println("Invalid choice. Please try again.");
                             }
